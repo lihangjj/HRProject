@@ -6,7 +6,7 @@ public class Level implements Serializable {
     private Integer levid;
     private String title;
     private Double losal, hisal;
-
+    private Double agex;
     public Integer getLevid() {
         return levid;
     }
