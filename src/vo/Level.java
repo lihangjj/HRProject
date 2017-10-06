@@ -9,11 +9,6 @@ public class Level implements Serializable {
     public Integer getLevid() {
         return levid;
     }
-    private String one;
-    private String two;
-    private String three;
-    private String fore;
-    hahahh
     public void setLevid(Integer levid) {
         this.levid = levid;
     }
