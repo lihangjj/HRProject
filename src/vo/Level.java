@@ -12,6 +12,7 @@ public class Level implements Serializable {
     private String one;
     private String two;
     private String three;
+    private String fore;
     public void setLevid(Integer levid) {
         this.levid = levid;
     }
