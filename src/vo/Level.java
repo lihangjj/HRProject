@@ -10,7 +10,6 @@ public class Level implements Serializable {
         return levid;
     }
 
-    好的测试；
     public void setLevid(Integer levid) {
         this.levid = levid;
     }
